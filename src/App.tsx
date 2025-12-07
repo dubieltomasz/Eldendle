@@ -1,16 +1,16 @@
-import {useState, useCallback} from 'react'
-import Input from './input.tsx'
+import {useState} from 'react'
+import Input from './Input.tsx'
 import ListGuesses from './ListGuesses.tsx'
 import './App.css'
 
 function App() {
-  const [guesses, setGuesses] = useState<string[]>(
-    localStorage.getItem('guesses') != null ? JSON.parse(localStorage.getItem('guesses')!!) : []
+  const [guesses, setGuesses] = useState<number[]>(
+    /*localStorage.getItem('guesses') != null ? JSON.parse(localStorage.getItem('guesses')?) : */[]
   );
   
   return (
     <>
-      <Input onSubmit={setGuesses}/>
+      <Input Submit={setGuesses}/>
       <table>
         <thead>
           <tr>

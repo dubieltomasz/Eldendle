@@ -1,5 +1,6 @@
-{
-  "Academy Glintstone Staff": {
+[
+  {
+    "Name": "Academy Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 43,
     "Mag": "-",
@@ -24,7 +25,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Alabaster Lord's Sword": {
+  {
+    "Name": "Alabaster Lord's Sword",
     "Type": "Greatsword",
     "Phy": 313,
     "Mag": 93,
@@ -49,7 +51,8 @@
     "Wgt": 8,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Albinauric Bow": {
+  {
+    "Name": "Albinauric Bow",
     "Type": "Bow",
     "Phy": 200,
     "Mag": "-",
@@ -74,7 +77,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Albinauric Staff": {
+  {
+    "Name": "Albinauric Staff",
     "Type": "Glintstone Staff",
     "Phy": 29,
     "Mag": "-",
@@ -99,7 +103,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Antspur Rapier": {
+  {
+    "Name": "Antspur Rapier",
     "Type": "Thrusting Sword",
     "Phy": 240,
     "Mag": "-",
@@ -124,7 +129,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Arbalest": {
+  {
+    "Name": "Arbalest",
     "Type": "Crossbow",
     "Phy": 308,
     "Mag": "-",
@@ -149,7 +155,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Astrologer's Staff": {
+  {
+    "Name": "Astrologer's Staff",
     "Type": "Glintstone Staff",
     "Phy": 43,
     "Mag": "-",
@@ -174,7 +181,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Axe of Godfrey": {
+  {
+    "Name": "Axe of Godfrey",
     "Type": "Colossal Weapon",
     "Phy": 404,
     "Mag": "-",
@@ -199,7 +207,8 @@
     "Wgt": 18,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Axe of Godrick": {
+  {
+    "Name": "Axe of Godrick",
     "Type": "Greataxe",
     "Phy": 347,
     "Mag": "-",
@@ -224,7 +233,8 @@
     "Wgt": 11,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Azur's Glintstone Staff": {
+  {
+    "Name": "Azur's Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 58,
     "Mag": "-",
@@ -249,7 +259,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Bandit's Curved Sword": {
+  {
+    "Name": "Bandit's Curved Sword",
     "Type": "Curved Sword",
     "Phy": 289,
     "Mag": "-",
@@ -274,7 +285,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Banished Knight's Greatsword": {
+  {
+    "Name": "Banished Knight's Greatsword",
     "Type": "Greatsword",
     "Phy": 347,
     "Mag": "-",
@@ -299,7 +311,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Banished Knight's Halberd": {
+  {
+    "Name": "Banished Knight's Halberd",
     "Type": "Halberd",
     "Phy": 306,
     "Mag": "-",
@@ -324,7 +337,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Bastard Sword": {
+  {
+    "Name": "Bastard Sword",
     "Type": "Greatsword",
     "Phy": 338,
     "Mag": "-",
@@ -349,7 +363,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Bastard's Stars": {
+  {
+    "Name": "Bastard's Stars",
     "Type": "Flail",
     "Phy": 159,
     "Mag": 191,
@@ -374,7 +389,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Battle Axe": {
+  {
+    "Name": "Battle Axe",
     "Type": "Axe",
     "Phy": 301,
     "Mag": "-",
@@ -399,7 +415,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Battle Hammer": {
+  {
+    "Name": "Battle Hammer",
     "Type": "Warhammer",
     "Phy": 320,
     "Mag": "-",
@@ -424,7 +441,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Beast-Repellent Torch": {
+  {
+    "Name": "Beast-Repellent Torch",
     "Type": "Torch",
     "Phy": 142,
     "Mag": "-",
@@ -449,7 +467,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Beastclaw Greathammer": {
+  {
+    "Name": "Beastclaw Greathammer",
     "Type": "Warhammer",
     "Phy": 284,
     "Mag": "-",
@@ -474,7 +493,8 @@
     "Wgt": 9,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Beastman's Cleaver": {
+  {
+    "Name": "Beastman's Cleaver",
     "Type": "Curved Greatsword",
     "Phy": 350,
     "Mag": "-",
@@ -499,7 +519,8 @@
     "Wgt": 16.5,
     "Upgrade": "Smithing Stones"
   },
-  "Beastman's Curved Sword": {
+  {
+    "Name": "Beastman's Curved Sword",
     "Type": "Curved Sword",
     "Phy": 276,
     "Mag": "-",
@@ -524,7 +545,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Black Bow": {
+  {
+    "Name": "Black Bow",
     "Type": "Bow",
     "Phy": 171,
     "Mag": "-",
@@ -549,7 +571,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Black Knife": {
+  {
+    "Name": "Black Knife",
     "Type": "Dagger",
     "Phy": 161,
     "Mag": "-",
@@ -574,7 +597,8 @@
     "Wgt": 2,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Blade of Calling": {
+  {
+    "Name": "Blade of Calling",
     "Type": "Dagger",
     "Phy": 173,
     "Mag": "-",
@@ -599,7 +623,8 @@
     "Wgt": 1.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Blasphemous Blade": {
+  {
+    "Name": "Blasphemous Blade",
     "Type": "Greatsword",
     "Phy": 296,
     "Mag": "-",
@@ -624,7 +649,8 @@
     "Wgt": 13.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Bloodhound Claws": {
+  {
+    "Name": "Bloodhound Claws",
     "Type": "Claw",
     "Phy": 230,
     "Mag": "-",
@@ -649,7 +675,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Bloodhound's Fang": {
+  {
+    "Name": "Bloodhound's Fang",
     "Type": "Curved Greatsword",
     "Phy": 345,
     "Mag": "-",
@@ -674,7 +701,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Bloodstained Dagger": {
+  {
+    "Name": "Bloodstained Dagger",
     "Type": "Dagger",
     "Phy": 198,
     "Mag": "-",
@@ -699,7 +727,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Bloody Helice": {
+  {
+    "Name": "Bloody Helice",
     "Type": "Heavy Thrusting Sword",
     "Phy": 296,
     "Mag": "-",
@@ -724,7 +753,8 @@
     "Wgt": 8,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Bolt of Gransax": {
+  {
+    "Name": "Bolt of Gransax",
     "Type": "Spear",
     "Phy": 240,
     "Mag": "-",
@@ -749,7 +779,8 @@
     "Wgt": 8.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Brick Hammer": {
+  {
+    "Name": "Brick Hammer",
     "Type": "Warhammer",
     "Phy": 298,
     "Mag": "-",
@@ -774,7 +805,8 @@
     "Wgt": 12.5,
     "Upgrade": "Smithing Stones"
   },
-  "Broadsword": {
+  {
+    "Name": "Broadsword",
     "Type": "Straight Sword",
     "Phy": 286,
     "Mag": "-",
@@ -799,7 +831,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Butchering Knife": {
+  {
+    "Name": "Butchering Knife",
     "Type": "Greataxe",
     "Phy": 328,
     "Mag": "-",
@@ -824,7 +857,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Caestus": {
+  {
+    "Name": "Caestus",
     "Type": "Fist",
     "Phy": 220,
     "Mag": "-",
@@ -849,7 +883,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Cane Sword": {
+  {
+    "Name": "Cane Sword",
     "Type": "Straight Sword",
     "Phy": 235,
     "Mag": "-",
@@ -874,7 +909,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Carian Glintblade Staff": {
+  {
+    "Name": "Carian Glintblade Staff",
     "Type": "Glintstone Staff",
     "Phy": 38,
     "Mag": "-",
@@ -899,7 +935,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Carian Glintstone Staff": {
+  {
+    "Name": "Carian Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 43,
     "Mag": "-",
@@ -924,7 +961,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Carian Knight's Sword": {
+  {
+    "Name": "Carian Knight's Sword",
     "Type": "Straight Sword",
     "Phy": 215,
     "Mag": 215,
@@ -949,7 +987,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Carian Regal Scepter": {
+  {
+    "Name": "Carian Regal Scepter",
     "Type": "Glintstone Staff",
     "Phy": 58,
     "Mag": "-",
@@ -974,7 +1013,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Celebrant's Cleaver": {
+  {
+    "Name": "Celebrant's Cleaver",
     "Type": "Axe",
     "Phy": 291,
     "Mag": "-",
@@ -999,7 +1039,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Celebrant's Rib-Rake": {
+  {
+    "Name": "Celebrant's Rib-Rake",
     "Type": "Spear",
     "Phy": 267,
     "Mag": "-",
@@ -1024,7 +1065,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Celebrant's Sickle": {
+  {
+    "Name": "Celebrant's Sickle",
     "Type": "Dagger",
     "Phy": 193,
     "Mag": "-",
@@ -1049,7 +1091,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Celebrant's Skull": {
+  {
+    "Name": "Celebrant's Skull",
     "Type": "Warhammer",
     "Phy": 338,
     "Mag": "-",
@@ -1074,7 +1117,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Chainlink Flail": {
+  {
+    "Name": "Chainlink Flail",
     "Type": "Flail",
     "Phy": 267,
     "Mag": "-",
@@ -1099,7 +1143,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Cinquedea": {
+  {
+    "Name": "Cinquedea",
     "Type": "Dagger",
     "Phy": 240,
     "Mag": "-",
@@ -1124,7 +1169,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Cipher Pata": {
+  {
+    "Name": "Cipher Pata",
     "Type": "Fist",
     "Phy": "-",
     "Mag": "-",
@@ -1149,7 +1195,8 @@
     "Wgt": 0,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Clawmark Seal": {
+  {
+    "Name": "Clawmark Seal",
     "Type": "Sacred Seal",
     "Phy": 54,
     "Mag": "-",
@@ -1174,7 +1221,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Clayman's Harpoon": {
+  {
+    "Name": "Clayman's Harpoon",
     "Type": "Spear",
     "Phy": 242,
     "Mag": 156,
@@ -1199,7 +1247,8 @@
     "Wgt": 5.5,
     "Upgrade": "Smithing Stones"
   },
-  "Claymore": {
+  {
+    "Name": "Claymore",
     "Type": "Greatsword",
     "Phy": 338,
     "Mag": "-",
@@ -1224,7 +1273,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Cleanrot Knight's Sword": {
+  {
+    "Name": "Cleanrot Knight's Sword",
     "Type": "Thrusting Sword",
     "Phy": 267,
     "Mag": "-",
@@ -1249,7 +1299,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Cleanrot Spear": {
+  {
+    "Name": "Cleanrot Spear",
     "Type": "Spear",
     "Phy": 249,
     "Mag": "-",
@@ -1274,7 +1325,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Clinging Bone": {
+  {
+    "Name": "Clinging Bone",
     "Type": "Fist",
     "Phy": 196,
     "Mag": 58,
@@ -1299,7 +1351,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Club": {
+  {
+    "Name": "Club",
     "Type": "Hammer",
     "Phy": 252,
     "Mag": "-",
@@ -1324,7 +1377,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Coded Sword": {
+  {
+    "Name": "Coded Sword",
     "Type": "Straight Sword",
     "Phy": "-",
     "Mag": "-",
@@ -1349,7 +1403,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Commander's Standard": {
+  {
+    "Name": "Commander's Standard",
     "Type": "Halberd",
     "Phy": 338,
     "Mag": "-",
@@ -1374,7 +1429,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Composite Bow": {
+  {
+    "Name": "Composite Bow",
     "Type": "Light Bow",
     "Phy": 159,
     "Mag": "-",
@@ -1399,7 +1455,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Cranial Vessel Candlestand": {
+  {
+    "Name": "Cranial Vessel Candlestand",
     "Type": "Warhammer",
     "Phy": 240,
     "Mag": "-",
@@ -1424,7 +1481,8 @@
     "Wgt": 12.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Crepus's Black-Key Crossbow": {
+  {
+    "Name": "Crepus's Black-Key Crossbow",
     "Type": "Crossbow",
     "Phy": 238,
     "Mag": "-",
@@ -1449,7 +1507,8 @@
     "Wgt": 5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Crescent Moon Axe": {
+  {
+    "Name": "Crescent Moon Axe",
     "Type": "Greataxe",
     "Phy": 357,
     "Mag": "-",
@@ -1474,7 +1533,8 @@
     "Wgt": 12.5,
     "Upgrade": "Smithing Stones"
   },
-  "Cross-Naginata": {
+  {
+    "Name": "Cross-Naginata",
     "Type": "Spear",
     "Phy": 298,
     "Mag": "-",
@@ -1499,7 +1559,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Crystal Knife": {
+  {
+    "Name": "Crystal Knife",
     "Type": "Dagger",
     "Phy": 200,
     "Mag": 129,
@@ -1524,7 +1585,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Crystal Spear": {
+  {
+    "Name": "Crystal Spear",
     "Type": "Spear",
     "Phy": 269,
     "Mag": 80,
@@ -1549,7 +1611,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Crystal Staff": {
+  {
+    "Name": "Crystal Staff",
     "Type": "Glintstone Staff",
     "Phy": 75,
     "Mag": "-",
@@ -1574,7 +1637,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Crystal Sword": {
+  {
+    "Name": "Crystal Sword",
     "Type": "Straight Sword",
     "Phy": 259,
     "Mag": 166,
@@ -1599,7 +1663,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Curved Club": {
+  {
+    "Name": "Curved Club",
     "Type": "Hammer",
     "Phy": 279,
     "Mag": "-",
@@ -1624,7 +1689,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Curved Great Club": {
+  {
+    "Name": "Curved Great Club",
     "Type": "Warhammer",
     "Phy": 355,
     "Mag": "-",
@@ -1649,7 +1715,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Dagger": {
+  {
+    "Name": "Dagger",
     "Type": "Dagger",
     "Phy": 181,
     "Mag": "-",
@@ -1674,7 +1741,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Dark Moon Greatsword": {
+  {
+    "Name": "Dark Moon Greatsword",
     "Type": "Greatsword",
     "Phy": 200,
     "Mag": 240,
@@ -1699,7 +1767,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Death Ritual Spear": {
+  {
+    "Name": "Death Ritual Spear",
     "Type": "Spear",
     "Phy": 242,
     "Mag": 156,
@@ -1724,7 +1793,8 @@
     "Wgt": 6.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Death's Poker": {
+  {
+    "Name": "Death's Poker",
     "Type": "Greatsword",
     "Phy": 301,
     "Mag": 88,
@@ -1749,7 +1819,8 @@
     "Wgt": 8.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Demi-Human Queen's Staff": {
+  {
+    "Name": "Demi-Human Queen's Staff",
     "Type": "Glintstone Staff",
     "Phy": 54,
     "Mag": "-",
@@ -1774,7 +1845,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Devourer's Scepter": {
+  {
+    "Name": "Devourer's Scepter",
     "Type": "Warhammer",
     "Phy": 274,
     "Mag": "-",
@@ -1799,7 +1871,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Digger's Staff": {
+  {
+    "Name": "Digger's Staff",
     "Type": "Glintstone Staff",
     "Phy": 66,
     "Mag": "-",
@@ -1824,7 +1897,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Dismounter": {
+  {
+    "Name": "Dismounter",
     "Type": "Curved Greatsword",
     "Phy": 338,
     "Mag": "-",
@@ -1849,7 +1923,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Dragon Communion Seal": {
+  {
+    "Name": "Dragon Communion Seal",
     "Type": "Sacred Seal",
     "Phy": 61,
     "Mag": "-",
@@ -1874,7 +1949,8 @@
     "Wgt": 0,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Dragon Greatclaw": {
+  {
+    "Name": "Dragon Greatclaw",
     "Type": "Colossal Weapon",
     "Phy": 294,
     "Mag": "-",
@@ -1899,7 +1975,8 @@
     "Wgt": 16,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Dragon Halberd": {
+  {
+    "Name": "Dragon Halberd",
     "Type": "Halberd",
     "Phy": 330,
     "Mag": "-",
@@ -1924,7 +2001,8 @@
     "Wgt": 10.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Dragon King's Cragblade": {
+  {
+    "Name": "Dragon King's Cragblade",
     "Type": "Heavy Thrusting Sword",
     "Phy": 225,
     "Mag": "-",
@@ -1949,7 +2027,8 @@
     "Wgt": 8,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Dragonscale Blade": {
+  {
+    "Name": "Dragonscale Blade",
     "Type": "Katana",
     "Phy": 269,
     "Mag": "-",
@@ -1974,7 +2053,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Duelist Greataxe": {
+  {
+    "Name": "Duelist Greataxe",
     "Type": "Colossal Weapon",
     "Phy": 416,
     "Mag": "-",
@@ -1999,7 +2079,8 @@
     "Wgt": 20,
     "Upgrade": "Smithing Stones"
   },
-  "Eclipse Shotel": {
+  {
+    "Name": "Eclipse Shotel",
     "Type": "Curved Sword",
     "Phy": 188,
     "Mag": "-",
@@ -2024,7 +2105,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Eleonora's Poleblade": {
+  {
+    "Name": "Eleonora's Poleblade",
     "Type": "Twinblade",
     "Phy": 176,
     "Mag": "-",
@@ -2049,7 +2131,8 @@
     "Wgt": 6,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Envoy's Greathorn": {
+  {
+    "Name": "Envoy's Greathorn",
     "Type": "Colossal Weapon",
     "Phy": 296,
     "Mag": "-",
@@ -2074,7 +2157,8 @@
     "Wgt": 19.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Envoy's Horn": {
+  {
+    "Name": "Envoy's Horn",
     "Type": "Hammer",
     "Phy": 235,
     "Mag": "-",
@@ -2099,7 +2183,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Envoy's Long Horn": {
+  {
+    "Name": "Envoy's Long Horn",
     "Type": "Warhammer",
     "Phy": 294,
     "Mag": "-",
@@ -2124,7 +2209,8 @@
     "Wgt": 9.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Erdsteel Dagger": {
+  {
+    "Name": "Erdsteel Dagger",
     "Type": "Dagger",
     "Phy": 164,
     "Mag": "-",
@@ -2149,7 +2235,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Erdtree Bow": {
+  {
+    "Name": "Erdtree Bow",
     "Type": "Bow",
     "Phy": 98,
     "Mag": "-",
@@ -2174,7 +2261,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Erdtree Greatbow": {
+  {
+    "Name": "Erdtree Greatbow",
     "Type": "Greatbow",
     "Phy": 147,
     "Mag": "-",
@@ -2199,7 +2287,8 @@
     "Wgt": 11,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Erdtree Seal": {
+  {
+    "Name": "Erdtree Seal",
     "Type": "Sacred Seal",
     "Phy": 61,
     "Mag": "-",
@@ -2224,7 +2313,8 @@
     "Wgt": 0,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Estoc": {
+  {
+    "Name": "Estoc",
     "Type": "Thrusting Sword",
     "Phy": 262,
     "Mag": "-",
@@ -2249,7 +2339,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Executioner's Greataxe": {
+  {
+    "Name": "Executioner's Greataxe",
     "Type": "Greataxe",
     "Phy": 367,
     "Mag": "-",
@@ -2274,7 +2365,8 @@
     "Wgt": 15,
     "Upgrade": "Smithing Stones"
   },
-  "Falchion": {
+  {
+    "Name": "Falchion",
     "Type": "Curved Sword",
     "Phy": 267,
     "Mag": "-",
@@ -2299,7 +2391,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Fallingstar Beast Jaw": {
+  {
+    "Name": "Fallingstar Beast Jaw",
     "Type": "Colossal Weapon",
     "Phy": 320,
     "Mag": 208,
@@ -2324,7 +2417,8 @@
     "Wgt": 21.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Family Heads": {
+  {
+    "Name": "Family Heads",
     "Type": "Flail",
     "Phy": 213,
     "Mag": 137,
@@ -2349,7 +2443,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Finger Seal": {
+  {
+    "Name": "Finger Seal",
     "Type": "Sacred Seal",
     "Phy": 43,
     "Mag": "-",
@@ -2374,7 +2469,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Flail": {
+  {
+    "Name": "Flail",
     "Type": "Flail",
     "Phy": 267,
     "Mag": "-",
@@ -2399,7 +2495,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Flamberge": {
+  {
+    "Name": "Flamberge",
     "Type": "Greatsword",
     "Phy": 316,
     "Mag": "-",
@@ -2424,7 +2521,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Flowing Curved Sword": {
+  {
+    "Name": "Flowing Curved Sword",
     "Type": "Curved Sword",
     "Phy": 267,
     "Mag": "-",
@@ -2449,7 +2547,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Forked Greatsword": {
+  {
+    "Name": "Forked Greatsword",
     "Type": "Greatsword",
     "Phy": 303,
     "Mag": "-",
@@ -2474,7 +2573,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Forked Hatchet": {
+  {
+    "Name": "Forked Hatchet",
     "Type": "Axe",
     "Phy": 247,
     "Mag": "-",
@@ -2499,7 +2599,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Frenzied Flame Seal": {
+  {
+    "Name": "Frenzied Flame Seal",
     "Type": "Sacred Seal",
     "Phy": 61,
     "Mag": "-",
@@ -2524,7 +2625,8 @@
     "Wgt": 0,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Frozen Needle": {
+  {
+    "Name": "Frozen Needle",
     "Type": "Thrusting Sword",
     "Phy": 242,
     "Mag": "-",
@@ -2549,7 +2651,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Full Moon Crossbow": {
+  {
+    "Name": "Full Moon Crossbow",
     "Type": "Crossbow",
     "Phy": 175,
     "Mag": 175,
@@ -2574,7 +2677,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Gargoyle's Black Axe": {
+  {
+    "Name": "Gargoyle's Black Axe",
     "Type": "Greataxe",
     "Phy": 245,
     "Mag": "-",
@@ -2599,7 +2703,8 @@
     "Wgt": 8.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Gargoyle's Black Blades": {
+  {
+    "Name": "Gargoyle's Black Blades",
     "Type": "Twinblade",
     "Phy": 198,
     "Mag": "-",
@@ -2624,7 +2729,8 @@
     "Wgt": 8.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Gargoyle's Black Halberd": {
+  {
+    "Name": "Gargoyle's Black Halberd",
     "Type": "Halberd",
     "Phy": 252,
     "Mag": "-",
@@ -2649,7 +2755,8 @@
     "Wgt": 12,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Gargoyle's Blackblade": {
+  {
+    "Name": "Gargoyle's Blackblade",
     "Type": "Greatsword",
     "Phy": 249,
     "Mag": "-",
@@ -2674,7 +2781,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Gargoyle's Great Axe": {
+  {
+    "Name": "Gargoyle's Great Axe",
     "Type": "Greataxe",
     "Phy": 301,
     "Mag": "-",
@@ -2699,7 +2807,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Gargoyle's Greatsword": {
+  {
+    "Name": "Gargoyle's Greatsword",
     "Type": "Greatsword",
     "Phy": 325,
     "Mag": "-",
@@ -2724,7 +2833,8 @@
     "Wgt": 11.5,
     "Upgrade": "Smithing Stones"
   },
-  "Gargoyle's Halberd": {
+  {
+    "Name": "Gargoyle's Halberd",
     "Type": "Halberd",
     "Phy": 320,
     "Mag": "-",
@@ -2749,7 +2859,8 @@
     "Wgt": 12,
     "Upgrade": "Smithing Stones"
   },
-  "Gargoyle's Twinblade": {
+  {
+    "Name": "Gargoyle's Twinblade",
     "Type": "Twinblade",
     "Phy": 301,
     "Mag": "-",
@@ -2774,7 +2885,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Gelmir Glintstone Staff": {
+  {
+    "Name": "Gelmir Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 50,
     "Mag": "-",
@@ -2799,7 +2911,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Ghiza's Wheel": {
+  {
+    "Name": "Ghiza's Wheel",
     "Type": "Colossal Weapon",
     "Phy": 382,
     "Mag": "-",
@@ -2824,7 +2937,8 @@
     "Wgt": 19,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ghostflame Torch": {
+  {
+    "Name": "Ghostflame Torch",
     "Type": "Torch",
     "Phy": 122,
     "Mag": 220,
@@ -2849,7 +2963,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Giant's Red Braid": {
+  {
+    "Name": "Giant's Red Braid",
     "Type": "Whip",
     "Phy": 200,
     "Mag": "-",
@@ -2874,7 +2989,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Giant's Seal": {
+  {
+    "Name": "Giant's Seal",
     "Type": "Sacred Seal",
     "Phy": 43,
     "Mag": "-",
@@ -2899,7 +3015,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Giant-Crusher": {
+  {
+    "Name": "Giant-Crusher",
     "Type": "Colossal Weapon",
     "Phy": 379,
     "Mag": "-",
@@ -2924,7 +3041,8 @@
     "Wgt": 26.5,
     "Upgrade": "Smithing Stones"
   },
-  "Glaive": {
+  {
+    "Name": "Glaive",
     "Type": "Halberd",
     "Phy": 323,
     "Mag": "-",
@@ -2949,7 +3067,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Glintstone Kris": {
+  {
+    "Name": "Glintstone Kris",
     "Type": "Dagger",
     "Phy": 139,
     "Mag": 166,
@@ -2974,7 +3093,8 @@
     "Wgt": 1.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Glintstone Staff": {
+  {
+    "Name": "Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 43,
     "Mag": "-",
@@ -2999,7 +3119,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Godskin Peeler": {
+  {
+    "Name": "Godskin Peeler",
     "Type": "Twinblade",
     "Phy": 296,
     "Mag": "-",
@@ -3024,7 +3145,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Godskin Stitcher": {
+  {
+    "Name": "Godskin Stitcher",
     "Type": "Heavy Thrusting Sword",
     "Phy": 311,
     "Mag": "-",
@@ -3049,7 +3171,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Godslayer's Greatsword": {
+  {
+    "Name": "Godslayer's Greatsword",
     "Type": "Colossal Sword",
     "Phy": 291,
     "Mag": "-",
@@ -3074,7 +3197,8 @@
     "Wgt": 17.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Godslayer's Seal": {
+  {
+    "Name": "Godslayer's Seal",
     "Type": "Sacred Seal",
     "Phy": 43,
     "Mag": "-",
@@ -3099,7 +3223,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Golden Epitaph": {
+  {
+    "Name": "Golden Epitaph",
     "Type": "Straight Sword",
     "Phy": 208,
     "Mag": "-",
@@ -3124,7 +3249,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Golden Halberd": {
+  {
+    "Name": "Golden Halberd",
     "Type": "Halberd",
     "Phy": 328,
     "Mag": "-",
@@ -3149,7 +3275,8 @@
     "Wgt": 13.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Golden Order Greatsword": {
+  {
+    "Name": "Golden Order Greatsword",
     "Type": "Greatsword",
     "Phy": 210,
     "Mag": "-",
@@ -3174,7 +3301,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Golden Order Seal": {
+  {
+    "Name": "Golden Order Seal",
     "Type": "Sacred Seal",
     "Phy": 58,
     "Mag": "-",
@@ -3199,7 +3327,8 @@
     "Wgt": 0,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Golem Greatbow": {
+  {
+    "Name": "Golem Greatbow",
     "Type": "Greatbow",
     "Phy": 318,
     "Mag": "-",
@@ -3224,7 +3353,8 @@
     "Wgt": 14.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Golem's Halberd": {
+  {
+    "Name": "Golem's Halberd",
     "Type": "Colossal Weapon",
     "Phy": 387,
     "Mag": "-",
@@ -3249,7 +3379,8 @@
     "Wgt": 21.5,
     "Upgrade": "Smithing Stones"
   },
-  "Grafted Blade Greatsword": {
+  {
+    "Name": "Grafted Blade Greatsword",
     "Type": "Colossal Sword",
     "Phy": 396,
     "Mag": "-",
@@ -3274,7 +3405,8 @@
     "Wgt": 21,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Grafted Dragon": {
+  {
+    "Name": "Grafted Dragon",
     "Type": "Fist",
     "Phy": 218,
     "Mag": "-",
@@ -3299,7 +3431,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Grave Scythe": {
+  {
+    "Name": "Grave Scythe",
     "Type": "Reaper",
     "Phy": 352,
     "Mag": "-",
@@ -3324,7 +3457,8 @@
     "Wgt": 9.5,
     "Upgrade": "Smithing Stones"
   },
-  "Gravel Stone Seal": {
+  {
+    "Name": "Gravel Stone Seal",
     "Type": "Sacred Seal",
     "Phy": 43,
     "Mag": "-",
@@ -3349,7 +3483,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Great Club": {
+  {
+    "Name": "Great Club",
     "Type": "Colossal Weapon",
     "Phy": 377,
     "Mag": "-",
@@ -3374,7 +3509,8 @@
     "Wgt": 17,
     "Upgrade": "Smithing Stones"
   },
-  "Great Knife": {
+  {
+    "Name": "Great Knife",
     "Type": "Dagger",
     "Phy": 183,
     "Mag": "-",
@@ -3399,7 +3535,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Great Mace": {
+  {
+    "Name": "Great Mace",
     "Type": "Warhammer",
     "Phy": 328,
     "Mag": "-",
@@ -3424,7 +3561,8 @@
     "Wgt": 11.5,
     "Upgrade": "Smithing Stones"
   },
-  "Great Omenkiller Cleaver": {
+  {
+    "Name": "Great Omenkiller Cleaver",
     "Type": "Greataxe",
     "Phy": 347,
     "Mag": "-",
@@ -3449,7 +3587,8 @@
     "Wgt": 11,
     "Upgrade": "Smithing Stones"
   },
-  "Great Stars": {
+  {
+    "Name": "Great Stars",
     "Type": "Warhammer",
     "Phy": 330,
     "Mag": "-",
@@ -3474,7 +3613,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Great epee": {
+  {
+    "Name": "Great epee",
     "Type": "Heavy Thrusting Sword",
     "Phy": 303,
     "Mag": "-",
@@ -3499,7 +3639,8 @@
     "Wgt": 6.5,
     "Upgrade": "Smithing Stones"
   },
-  "Greataxe": {
+  {
+    "Name": "Greataxe",
     "Type": "Greataxe",
     "Phy": 369,
     "Mag": "-",
@@ -3524,7 +3665,8 @@
     "Wgt": 13,
     "Upgrade": "Smithing Stones"
   },
-  "Greatbow": {
+  {
+    "Name": "Greatbow",
     "Type": "Greatbow",
     "Phy": 306,
     "Mag": "-",
@@ -3549,7 +3691,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Greathorn Hammer": {
+  {
+    "Name": "Greathorn Hammer",
     "Type": "Warhammer",
     "Phy": 328,
     "Mag": "-",
@@ -3574,7 +3717,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Greatsword": {
+  {
+    "Name": "Greatsword",
     "Type": "Colossal Sword",
     "Phy": 401,
     "Mag": "-",
@@ -3599,7 +3743,8 @@
     "Wgt": 23,
     "Upgrade": "Smithing Stones"
   },
-  "Grossmesser": {
+  {
+    "Name": "Grossmesser",
     "Type": "Curved Sword",
     "Phy": 281,
     "Mag": "-",
@@ -3624,7 +3769,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Guardian's Swordspear": {
+  {
+    "Name": "Guardian's Swordspear",
     "Type": "Halberd",
     "Phy": 340,
     "Mag": "-",
@@ -3649,7 +3795,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Halberd": {
+  {
+    "Name": "Halberd",
     "Type": "Halberd",
     "Phy": 306,
     "Mag": "-",
@@ -3674,7 +3821,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Halo Scythe": {
+  {
+    "Name": "Halo Scythe",
     "Type": "Reaper",
     "Phy": 289,
     "Mag": "-",
@@ -3699,7 +3847,8 @@
     "Wgt": 8.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Hammer": {
+  {
+    "Name": "Hammer",
     "Type": "Hammer",
     "Phy": 303,
     "Mag": "-",
@@ -3724,7 +3873,8 @@
     "Wgt": 6.5,
     "Upgrade": "Smithing Stones"
   },
-  "Hand Axe": {
+  {
+    "Name": "Hand Axe",
     "Type": "Axe",
     "Phy": 276,
     "Mag": "-",
@@ -3749,7 +3899,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Hand Ballista": {
+  {
+    "Name": "Hand Ballista",
     "Type": "Ballista",
     "Phy": 600,
     "Mag": "-",
@@ -3774,7 +3925,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Hand of Malenia": {
+  {
+    "Name": "Hand of Malenia",
     "Type": "Katana",
     "Phy": 286,
     "Mag": "-",
@@ -3799,7 +3951,8 @@
     "Wgt": 7,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Harp Bow": {
+  {
+    "Name": "Harp Bow",
     "Type": "Light Bow",
     "Phy": 151,
     "Mag": "-",
@@ -3824,7 +3977,8 @@
     "Wgt": 2,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Heavy Crossbow": {
+  {
+    "Name": "Heavy Crossbow",
     "Type": "Crossbow",
     "Phy": 288,
     "Mag": "-",
@@ -3849,7 +4003,8 @@
     "Wgt": 5.5,
     "Upgrade": "Smithing Stones"
   },
-  "Helphen's Steeple": {
+  {
+    "Name": "Helphen's Steeple",
     "Type": "Greatsword",
     "Phy": 247,
     "Mag": 247,
@@ -3874,7 +4029,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Highland Axe": {
+  {
+    "Name": "Highland Axe",
     "Type": "Axe",
     "Phy": 301,
     "Mag": "-",
@@ -3899,7 +4055,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Hookclaws": {
+  {
+    "Name": "Hookclaws",
     "Type": "Claw",
     "Phy": 218,
     "Mag": "-",
@@ -3924,7 +4081,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Horn Bow": {
+  {
+    "Name": "Horn Bow",
     "Type": "Bow",
     "Phy": 159,
     "Mag": 73,
@@ -3949,7 +4107,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Hoslow's Petal Whip": {
+  {
+    "Name": "Hoslow's Petal Whip",
     "Type": "Whip",
     "Phy": 269,
     "Mag": "-",
@@ -3974,7 +4133,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Icerind Hatchet": {
+  {
+    "Name": "Icerind Hatchet",
     "Type": "Axe",
     "Phy": 271,
     "Mag": "-",
@@ -3999,7 +4159,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Inquisitor's Girandole": {
+  {
+    "Name": "Inquisitor's Girandole",
     "Type": "Spear",
     "Phy": 249,
     "Mag": "-",
@@ -4024,7 +4185,8 @@
     "Wgt": 7.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Inseparable Sword": {
+  {
+    "Name": "Inseparable Sword",
     "Type": "Straight Sword",
     "Phy": 240,
     "Mag": "-",
@@ -4049,7 +4211,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Iron Ball": {
+  {
+    "Name": "Iron Ball",
     "Type": "Fist",
     "Phy": 247,
     "Mag": "-",
@@ -4074,7 +4237,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Iron Cleaver": {
+  {
+    "Name": "Iron Cleaver",
     "Type": "Axe",
     "Phy": 294,
     "Mag": "-",
@@ -4099,7 +4263,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Iron Greatsword": {
+  {
+    "Name": "Iron Greatsword",
     "Type": "Greatsword",
     "Phy": 365,
     "Mag": "-",
@@ -4124,7 +4289,8 @@
     "Wgt": 12,
     "Upgrade": "Smithing Stones"
   },
-  "Iron Spear": {
+  {
+    "Name": "Iron Spear",
     "Type": "Spear",
     "Phy": 279,
     "Mag": "-",
@@ -4149,7 +4315,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Ivory Sickle": {
+  {
+    "Name": "Ivory Sickle",
     "Type": "Dagger",
     "Phy": 147,
     "Mag": 147,
@@ -4174,7 +4341,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Jar Cannon": {
+  {
+    "Name": "Jar Cannon",
     "Type": "Ballista",
     "Phy": 672,
     "Mag": "-",
@@ -4199,7 +4367,8 @@
     "Wgt": 15,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Jawbone Axe": {
+  {
+    "Name": "Jawbone Axe",
     "Type": "Axe",
     "Phy": 303,
     "Mag": "-",
@@ -4224,7 +4393,8 @@
     "Wgt": 5.5,
     "Upgrade": "Smithing Stones"
   },
-  "Katar": {
+  {
+    "Name": "Katar",
     "Type": "Fist",
     "Phy": 237,
     "Mag": "-",
@@ -4249,7 +4419,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Knight's Greatsword": {
+  {
+    "Name": "Knight's Greatsword",
     "Type": "Greatsword",
     "Phy": 345,
     "Mag": "-",
@@ -4274,7 +4445,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Lance": {
+  {
+    "Name": "Lance",
     "Type": "Great Spear",
     "Phy": 301,
     "Mag": "-",
@@ -4299,7 +4471,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Large Club": {
+  {
+    "Name": "Large Club",
     "Type": "Warhammer",
     "Phy": 320,
     "Mag": "-",
@@ -4324,7 +4497,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Lazuli Glintstone Sword": {
+  {
+    "Name": "Lazuli Glintstone Sword",
     "Type": "Straight Sword",
     "Phy": 193,
     "Mag": 230,
@@ -4349,7 +4523,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Light Crossbow": {
+  {
+    "Name": "Light Crossbow",
     "Type": "Crossbow",
     "Phy": 260,
     "Mag": "-",
@@ -4374,7 +4549,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Lion Greatbow": {
+  {
+    "Name": "Lion Greatbow",
     "Type": "Greatbow",
     "Phy": 294,
     "Mag": "-",
@@ -4399,7 +4575,8 @@
     "Wgt": 9.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Longbow": {
+  {
+    "Name": "Longbow",
     "Type": "Bow",
     "Phy": 196,
     "Mag": "-",
@@ -4424,7 +4601,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Longhaft Axe": {
+  {
+    "Name": "Longhaft Axe",
     "Type": "Greataxe",
     "Phy": 357,
     "Mag": "-",
@@ -4449,7 +4627,8 @@
     "Wgt": 12.5,
     "Upgrade": "Smithing Stones"
   },
-  "Longsword": {
+  {
+    "Name": "Longsword",
     "Type": "Straight Sword",
     "Phy": 269,
     "Mag": "-",
@@ -4474,7 +4653,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Lordsworn's Greatsword": {
+  {
+    "Name": "Lordsworn's Greatsword",
     "Type": "Greatsword",
     "Phy": 333,
     "Mag": "-",
@@ -4499,7 +4679,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Lordsworn's Straight Sword": {
+  {
+    "Name": "Lordsworn's Straight Sword",
     "Type": "Straight Sword",
     "Phy": 281,
     "Mag": "-",
@@ -4524,7 +4705,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Loretta's War Sickle": {
+  {
+    "Name": "Loretta's War Sickle",
     "Type": "Halberd",
     "Phy": 269,
     "Mag": 173,
@@ -4549,7 +4731,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Lucerne": {
+  {
+    "Name": "Lucerne",
     "Type": "Halberd",
     "Phy": 296,
     "Mag": "-",
@@ -4574,7 +4757,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Lusat's Glintstone Staff": {
+  {
+    "Name": "Lusat's Glintstone Staff",
     "Type": "Glintstone Staff",
     "Phy": 58,
     "Mag": "-",
@@ -4599,7 +4783,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Mace": {
+  {
+    "Name": "Mace",
     "Type": "Hammer",
     "Phy": 281,
     "Mag": "-",
@@ -4624,7 +4809,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Magma Blade": {
+  {
+    "Name": "Magma Blade",
     "Type": "Curved Sword",
     "Phy": 235,
     "Mag": "-",
@@ -4649,7 +4835,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Magma Whip Candlestick": {
+  {
+    "Name": "Magma Whip Candlestick",
     "Type": "Whip",
     "Phy": 176,
     "Mag": "-",
@@ -4674,7 +4861,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Magma Wyrm's Scalesword": {
+  {
+    "Name": "Magma Wyrm's Scalesword",
     "Type": "Curved Greatsword",
     "Phy": 279,
     "Mag": "-",
@@ -4699,7 +4887,8 @@
     "Wgt": 15,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Maliketh's Black Blade": {
+  {
+    "Name": "Maliketh's Black Blade",
     "Type": "Colossal Sword",
     "Phy": 311,
     "Mag": "-",
@@ -4724,7 +4913,8 @@
     "Wgt": 22,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Mantis Blade": {
+  {
+    "Name": "Mantis Blade",
     "Type": "Curved Sword",
     "Phy": 274,
     "Mag": "-",
@@ -4749,7 +4939,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Marais Executioner's Sword": {
+  {
+    "Name": "Marais Executioner's Sword",
     "Type": "Greatsword",
     "Phy": 230,
     "Mag": 149,
@@ -4774,7 +4965,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Marika's Hammer": {
+  {
+    "Name": "Marika's Hammer",
     "Type": "Hammer",
     "Phy": 247,
     "Mag": "-",
@@ -4799,7 +4991,8 @@
     "Wgt": 6,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Meteoric Ore Blade": {
+  {
+    "Name": "Meteoric Ore Blade",
     "Type": "Katana",
     "Phy": 274,
     "Mag": 176,
@@ -4824,7 +5017,8 @@
     "Wgt": 7.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Miquellan Knight's Sword": {
+  {
+    "Name": "Miquellan Knight's Sword",
     "Type": "Straight Sword",
     "Phy": 257,
     "Mag": "-",
@@ -4849,7 +5043,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Misbegotten Shortbow": {
+  {
+    "Name": "Misbegotten Shortbow",
     "Type": "Light Bow",
     "Phy": 166,
     "Mag": "-",
@@ -4874,7 +5069,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Misericorde": {
+  {
+    "Name": "Misericorde",
     "Type": "Dagger",
     "Phy": 225,
     "Mag": "-",
@@ -4899,7 +5095,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Mohgwyn's Sacred Spear": {
+  {
+    "Name": "Mohgwyn's Sacred Spear",
     "Type": "Great Spear",
     "Phy": 235,
     "Mag": "-",
@@ -4924,7 +5121,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Monk's Flameblade": {
+  {
+    "Name": "Monk's Flameblade",
     "Type": "Curved Greatsword",
     "Phy": 328,
     "Mag": "-",
@@ -4949,7 +5147,8 @@
     "Wgt": 9,
     "Upgrade": "Smithing Stones"
   },
-  "Monk's Flamemace": {
+  {
+    "Name": "Monk's Flamemace",
     "Type": "Hammer",
     "Phy": 308,
     "Mag": "-",
@@ -4974,7 +5173,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Moonveil": {
+  {
+    "Name": "Moonveil",
     "Type": "Katana",
     "Phy": 178,
     "Mag": 213,
@@ -4999,7 +5199,8 @@
     "Wgt": 6.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Morgott's Cursed Sword": {
+  {
+    "Name": "Morgott's Cursed Sword",
     "Type": "Curved Greatsword",
     "Phy": 294,
     "Mag": "-",
@@ -5024,7 +5225,8 @@
     "Wgt": 7.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Morning Star": {
+  {
+    "Name": "Morning Star",
     "Type": "Hammer",
     "Phy": 289,
     "Mag": "-",
@@ -5049,7 +5251,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Nagakiba": {
+  {
+    "Name": "Nagakiba",
     "Type": "Katana",
     "Phy": 281,
     "Mag": "-",
@@ -5074,7 +5277,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Nightrider Flail": {
+  {
+    "Name": "Nightrider Flail",
     "Type": "Flail",
     "Phy": 274,
     "Mag": "-",
@@ -5099,7 +5303,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Nightrider Glaive": {
+  {
+    "Name": "Nightrider Glaive",
     "Type": "Halberd",
     "Phy": 316,
     "Mag": "-",
@@ -5124,7 +5329,8 @@
     "Wgt": 12,
     "Upgrade": "Smithing Stones"
   },
-  "Noble's Estoc": {
+  {
+    "Name": "Noble's Estoc",
     "Type": "Thrusting Sword",
     "Phy": 254,
     "Mag": "-",
@@ -5149,7 +5355,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Noble's Slender Sword": {
+  {
+    "Name": "Noble's Slender Sword",
     "Type": "Straight Sword",
     "Phy": 247,
     "Mag": "-",
@@ -5174,7 +5381,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Nox Flowing Hammer": {
+  {
+    "Name": "Nox Flowing Hammer",
     "Type": "Hammer",
     "Phy": 298,
     "Mag": "-",
@@ -5199,7 +5407,8 @@
     "Wgt": 6.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Nox Flowing Sword": {
+  {
+    "Name": "Nox Flowing Sword",
     "Type": "Straight Sword",
     "Phy": 274,
     "Mag": "-",
@@ -5224,7 +5433,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Omen Cleaver": {
+  {
+    "Name": "Omen Cleaver",
     "Type": "Curved Greatsword",
     "Phy": 347,
     "Mag": "-",
@@ -5249,7 +5459,8 @@
     "Wgt": 11.5,
     "Upgrade": "Smithing Stones"
   },
-  "Onyx Lord's Greatsword": {
+  {
+    "Name": "Onyx Lord's Greatsword",
     "Type": "Curved Greatsword",
     "Phy": 289,
     "Mag": 186,
@@ -5274,7 +5485,8 @@
     "Wgt": 11.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ordovis's Greatsword": {
+  {
+    "Name": "Ordovis's Greatsword",
     "Type": "Greatsword",
     "Phy": 262,
     "Mag": "-",
@@ -5299,7 +5511,8 @@
     "Wgt": 12,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ornamental Straight Sword": {
+  {
+    "Name": "Ornamental Straight Sword",
     "Type": "Straight Sword",
     "Phy": 247,
     "Mag": "-",
@@ -5324,7 +5537,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Parrying Dagger": {
+  {
+    "Name": "Parrying Dagger",
     "Type": "Dagger",
     "Phy": 183,
     "Mag": "-",
@@ -5349,7 +5563,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Partisan": {
+  {
+    "Name": "Partisan",
     "Type": "Spear",
     "Phy": 301,
     "Mag": "-",
@@ -5374,7 +5589,8 @@
     "Wgt": 6.5,
     "Upgrade": "Smithing Stones"
   },
-  "Pest's Glaive": {
+  {
+    "Name": "Pest's Glaive",
     "Type": "Halberd",
     "Phy": 294,
     "Mag": "-",
@@ -5399,7 +5615,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Pickaxe": {
+  {
+    "Name": "Pickaxe",
     "Type": "Warhammer",
     "Phy": 352,
     "Mag": "-",
@@ -5424,7 +5641,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Pike": {
+  {
+    "Name": "Pike",
     "Type": "Spear",
     "Phy": 281,
     "Mag": "-",
@@ -5449,7 +5667,8 @@
     "Wgt": 7.5,
     "Upgrade": "Smithing Stones"
   },
-  "Prelate's Inferno Crozier": {
+  {
+    "Name": "Prelate's Inferno Crozier",
     "Type": "Colossal Weapon",
     "Phy": 382,
     "Mag": "-",
@@ -5474,7 +5693,8 @@
     "Wgt": 23.5,
     "Upgrade": "Smithing Stones"
   },
-  "Prince of Death's Staff": {
+  {
+    "Name": "Prince of Death's Staff",
     "Type": "Glintstone Staff",
     "Phy": 43,
     "Mag": "-",
@@ -5499,7 +5719,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Pulley Bow": {
+  {
+    "Name": "Pulley Bow",
     "Type": "Bow",
     "Phy": 188,
     "Mag": "-",
@@ -5524,7 +5745,8 @@
     "Wgt": 5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Pulley Crossbow": {
+  {
+    "Name": "Pulley Crossbow",
     "Type": "Crossbow",
     "Phy": 146,
     "Mag": "-",
@@ -5549,7 +5771,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rapier": {
+  {
+    "Name": "Rapier",
     "Type": "Thrusting Sword",
     "Phy": 235,
     "Mag": "-",
@@ -5574,7 +5797,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Raptor Talons": {
+  {
+    "Name": "Raptor Talons",
     "Type": "Claw",
     "Phy": 203,
     "Mag": "-",
@@ -5599,7 +5823,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Red Branch Shortbow": {
+  {
+    "Name": "Red Branch Shortbow",
     "Type": "Light Bow",
     "Phy": 159,
     "Mag": "-",
@@ -5624,7 +5849,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Reduvia": {
+  {
+    "Name": "Reduvia",
     "Type": "Dagger",
     "Phy": 193,
     "Mag": "-",
@@ -5649,7 +5875,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Regalia of Eochaid": {
+  {
+    "Name": "Regalia of Eochaid",
     "Type": "Straight Sword",
     "Phy": 218,
     "Mag": 139,
@@ -5674,7 +5901,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ringed Finger": {
+  {
+    "Name": "Ringed Finger",
     "Type": "Hammer",
     "Phy": 296,
     "Mag": "-",
@@ -5699,7 +5927,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ripple Blade": {
+  {
+    "Name": "Ripple Blade",
     "Type": "Axe",
     "Phy": 171,
     "Mag": "-",
@@ -5724,7 +5953,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Ripple Crescent Halberd": {
+  {
+    "Name": "Ripple Crescent Halberd",
     "Type": "Halberd",
     "Phy": 210,
     "Mag": "-",
@@ -5749,7 +5979,8 @@
     "Wgt": 8.5,
     "Upgrade": "Smithing Stones"
   },
-  "Rivers of Blood": {
+  {
+    "Name": "Rivers of Blood",
     "Type": "Katana",
     "Phy": 186,
     "Mag": "-",
@@ -5774,7 +6005,8 @@
     "Wgt": 6.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rogier's Rapier": {
+  {
+    "Name": "Rogier's Rapier",
     "Type": "Thrusting Sword",
     "Phy": 227,
     "Mag": "-",
@@ -5799,7 +6031,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Rosus' Axe": {
+  {
+    "Name": "Rosus' Axe",
     "Type": "Axe",
     "Phy": 259,
     "Mag": 166,
@@ -5824,7 +6057,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rotten Battle Hammer": {
+  {
+    "Name": "Rotten Battle Hammer",
     "Type": "Warhammer",
     "Phy": 308,
     "Mag": "-",
@@ -5849,7 +6083,8 @@
     "Wgt": 10,
     "Upgrade": "Smithing Stones"
   },
-  "Rotten Crystal Spear": {
+  {
+    "Name": "Rotten Crystal Spear",
     "Type": "Spear",
     "Phy": 254,
     "Mag": 75,
@@ -5874,7 +6109,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rotten Crystal Staff": {
+  {
+    "Name": "Rotten Crystal Staff",
     "Type": "Glintstone Staff",
     "Phy": 102,
     "Mag": "-",
@@ -5899,7 +6135,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rotten Crystal Sword": {
+  {
+    "Name": "Rotten Crystal Sword",
     "Type": "Straight Sword",
     "Phy": 249,
     "Mag": 161,
@@ -5924,7 +6161,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rotten Greataxe": {
+  {
+    "Name": "Rotten Greataxe",
     "Type": "Colossal Weapon",
     "Phy": 396,
     "Mag": "-",
@@ -5949,7 +6187,8 @@
     "Wgt": 20,
     "Upgrade": "Smithing Stones"
   },
-  "Rotten Staff": {
+  {
+    "Name": "Rotten Staff",
     "Type": "Colossal Weapon",
     "Phy": 404,
     "Mag": "-",
@@ -5974,7 +6213,8 @@
     "Wgt": 18,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Royal Greatsword": {
+  {
+    "Name": "Royal Greatsword",
     "Type": "Colossal Sword",
     "Phy": 274,
     "Mag": 328,
@@ -5999,7 +6239,8 @@
     "Wgt": 20,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Ruins Greatsword": {
+  {
+    "Name": "Ruins Greatsword",
     "Type": "Colossal Sword",
     "Phy": 303,
     "Mag": 90,
@@ -6024,7 +6265,8 @@
     "Wgt": 23,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Rusted Anchor": {
+  {
+    "Name": "Rusted Anchor",
     "Type": "Greataxe",
     "Phy": 360,
     "Mag": "-",
@@ -6049,7 +6291,8 @@
     "Wgt": 12.5,
     "Upgrade": "Smithing Stones"
   },
-  "Sacred Relic Sword": {
+  {
+    "Name": "Sacred Relic Sword",
     "Type": "Greatsword",
     "Phy": 289,
     "Mag": "-",
@@ -6074,7 +6317,8 @@
     "Wgt": 11,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Sacrificial Axe": {
+  {
+    "Name": "Sacrificial Axe",
     "Type": "Axe",
     "Phy": 313,
     "Mag": "-",
@@ -6099,7 +6343,8 @@
     "Wgt": 5.5,
     "Upgrade": "Smithing Stones"
   },
-  "Scavenger's Curved Sword": {
+  {
+    "Name": "Scavenger's Curved Sword",
     "Type": "Curved Sword",
     "Phy": 257,
     "Mag": "-",
@@ -6124,7 +6369,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Scepter of the All-Knowing": {
+  {
+    "Name": "Scepter of the All-Knowing",
     "Type": "Hammer",
     "Phy": 242,
     "Mag": 156,
@@ -6149,7 +6395,8 @@
     "Wgt": 4.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Scimitar": {
+  {
+    "Name": "Scimitar",
     "Type": "Curved Sword",
     "Phy": 259,
     "Mag": "-",
@@ -6174,7 +6421,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Scorpion's Stinger": {
+  {
+    "Name": "Scorpion's Stinger",
     "Type": "Dagger",
     "Phy": 193,
     "Mag": "-",
@@ -6199,7 +6447,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Scythe": {
+  {
+    "Name": "Scythe",
     "Type": "Reaper",
     "Phy": 306,
     "Mag": "-",
@@ -6224,7 +6473,8 @@
     "Wgt": 7.5,
     "Upgrade": "Smithing Stones"
   },
-  "Sentry's Torch": {
+  {
+    "Name": "Sentry's Torch",
     "Type": "Torch",
     "Phy": 137,
     "Mag": "-",
@@ -6249,7 +6499,8 @@
     "Wgt": 5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Serpent Bow": {
+  {
+    "Name": "Serpent Bow",
     "Type": "Bow",
     "Phy": 183,
     "Mag": "-",
@@ -6274,7 +6525,8 @@
     "Wgt": 3.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Serpent-God's Curved Sword": {
+  {
+    "Name": "Serpent-God's Curved Sword",
     "Type": "Curved Sword",
     "Phy": 276,
     "Mag": "-",
@@ -6299,7 +6551,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Serpent-Hunter": {
+  {
+    "Name": "Serpent-Hunter",
     "Type": "Great Spear",
     "Phy": 271,
     "Mag": "-",
@@ -6324,7 +6577,8 @@
     "Wgt": 12,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Serpentbone Blade": {
+  {
+    "Name": "Serpentbone Blade",
     "Type": "Katana",
     "Phy": 294,
     "Mag": "-",
@@ -6349,7 +6603,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Shamshir": {
+  {
+    "Name": "Shamshir",
     "Type": "Curved Sword",
     "Phy": 264,
     "Mag": "-",
@@ -6374,7 +6629,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Short Spear": {
+  {
+    "Name": "Short Spear",
     "Type": "Spear",
     "Phy": 274,
     "Mag": "-",
@@ -6399,7 +6655,8 @@
     "Wgt": 4,
     "Upgrade": "Smithing Stones"
   },
-  "Short Sword": {
+  {
+    "Name": "Short Sword",
     "Type": "Straight Sword",
     "Phy": 249,
     "Mag": "-",
@@ -6424,7 +6681,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Shortbow": {
+  {
+    "Name": "Shortbow",
     "Type": "Light Bow",
     "Phy": 159,
     "Mag": "-",
@@ -6449,7 +6707,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Shotel": {
+  {
+    "Name": "Shotel",
     "Type": "Curved Sword",
     "Phy": 235,
     "Mag": "-",
@@ -6474,7 +6733,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Siluria's Tree": {
+  {
+    "Name": "Siluria's Tree",
     "Type": "Great Spear",
     "Phy": 220,
     "Mag": "-",
@@ -6499,7 +6759,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Soldier's Crossbow": {
+  {
+    "Name": "Soldier's Crossbow",
     "Type": "Crossbow",
     "Phy": 240,
     "Mag": "-",
@@ -6524,7 +6785,8 @@
     "Wgt": 3.5,
     "Upgrade": "Smithing Stones"
   },
-  "Spear": {
+  {
+    "Name": "Spear",
     "Type": "Spear",
     "Phy": 279,
     "Mag": "-",
@@ -6549,7 +6811,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Spiked Caestus": {
+  {
+    "Name": "Spiked Caestus",
     "Type": "Fist",
     "Phy": 222,
     "Mag": "-",
@@ -6574,7 +6837,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Spiked Club": {
+  {
+    "Name": "Spiked Club",
     "Type": "Hammer",
     "Phy": 279,
     "Mag": "-",
@@ -6599,7 +6863,8 @@
     "Wgt": 5,
     "Upgrade": "Smithing Stones"
   },
-  "Spiked Spear": {
+  {
+    "Name": "Spiked Spear",
     "Type": "Spear",
     "Phy": 294,
     "Mag": "-",
@@ -6624,7 +6889,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "St. Trina's Torch": {
+  {
+    "Name": "St. Trina's Torch",
     "Type": "Torch",
     "Phy": 124,
     "Mag": "-",
@@ -6649,7 +6915,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Staff of Loss": {
+  {
+    "Name": "Staff of Loss",
     "Type": "Glintstone Staff",
     "Phy": 38,
     "Mag": "-",
@@ -6674,7 +6941,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Staff of the Avatar": {
+  {
+    "Name": "Staff of the Avatar",
     "Type": "Colossal Weapon",
     "Phy": 276,
     "Mag": "-",
@@ -6699,7 +6967,8 @@
     "Wgt": 20,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Staff of the Guilty": {
+  {
+    "Name": "Staff of the Guilty",
     "Type": "Glintstone Staff",
     "Phy": 66,
     "Mag": "-",
@@ -6724,7 +6993,8 @@
     "Wgt": 4.5,
     "Upgrade": "Smithing Stones"
   },
-  "Star Fist": {
+  {
+    "Name": "Star Fist",
     "Type": "Fist",
     "Phy": 257,
     "Mag": "-",
@@ -6749,7 +7019,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Starscourge Greatsword": {
+  {
+    "Name": "Starscourge Greatsword",
     "Type": "Colossal Sword",
     "Phy": 316,
     "Mag": 203,
@@ -6774,7 +7045,8 @@
     "Wgt": 20,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Steel-Wire Torch": {
+  {
+    "Name": "Steel-Wire Torch",
     "Type": "Torch",
     "Phy": 149,
     "Mag": "-",
@@ -6799,7 +7071,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Stone Club": {
+  {
+    "Name": "Stone Club",
     "Type": "Hammer",
     "Phy": 298,
     "Mag": "-",
@@ -6824,7 +7097,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Stormhawk Axe": {
+  {
+    "Name": "Stormhawk Axe",
     "Type": "Axe",
     "Phy": 318,
     "Mag": "-",
@@ -6849,7 +7123,8 @@
     "Wgt": 5.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Sword of Milos": {
+  {
+    "Name": "Sword of Milos",
     "Type": "Greatsword",
     "Phy": 345,
     "Mag": "-",
@@ -6874,7 +7149,8 @@
     "Wgt": 10,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Sword of Night and Flame": {
+  {
+    "Name": "Sword of Night and Flame",
     "Type": "Straight Sword",
     "Phy": 213,
     "Mag": 137,
@@ -6899,7 +7175,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Sword of St. Trina": {
+  {
+    "Name": "Sword of St. Trina",
     "Type": "Straight Sword",
     "Phy": 262,
     "Mag": 78,
@@ -6924,7 +7201,8 @@
     "Wgt": 3,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Thorned Whip": {
+  {
+    "Name": "Thorned Whip",
     "Type": "Whip",
     "Phy": 249,
     "Mag": "-",
@@ -6949,7 +7227,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Torch": {
+  {
+    "Name": "Torch",
     "Type": "Torch",
     "Phy": 132,
     "Mag": "-",
@@ -6974,7 +7253,8 @@
     "Wgt": 1.5,
     "Upgrade": "Smithing Stones"
   },
-  "Torchpole": {
+  {
+    "Name": "Torchpole",
     "Type": "Spear",
     "Phy": 254,
     "Mag": "-",
@@ -6999,7 +7279,8 @@
     "Wgt": 6,
     "Upgrade": "Smithing Stones"
   },
-  "Treespear": {
+  {
+    "Name": "Treespear",
     "Type": "Great Spear",
     "Phy": 298,
     "Mag": "-",
@@ -7024,7 +7305,8 @@
     "Wgt": 9.5,
     "Upgrade": "Smithing Stones"
   },
-  "Troll Knight's Sword": {
+  {
+    "Name": "Troll Knight's Sword",
     "Type": "Colossal Sword",
     "Phy": 303,
     "Mag": 196,
@@ -7049,7 +7331,8 @@
     "Wgt": 18,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Troll's Golden Sword": {
+  {
+    "Name": "Troll's Golden Sword",
     "Type": "Colossal Sword",
     "Phy": 379,
     "Mag": "-",
@@ -7074,7 +7357,8 @@
     "Wgt": 19,
     "Upgrade": "Smithing Stones"
   },
-  "Troll's Hammer": {
+  {
+    "Name": "Troll's Hammer",
     "Type": "Colossal Weapon",
     "Phy": 374,
     "Mag": "-",
@@ -7099,7 +7383,8 @@
     "Wgt": 16,
     "Upgrade": "Smithing Stones"
   },
-  "Twinblade": {
+  {
+    "Name": "Twinblade",
     "Type": "Twinblade",
     "Phy": 291,
     "Mag": "-",
@@ -7124,7 +7409,8 @@
     "Wgt": 7,
     "Upgrade": "Smithing Stones"
   },
-  "Twinned Knight Swords": {
+  {
+    "Name": "Twinned Knight Swords",
     "Type": "Twinblade",
     "Phy": 298,
     "Mag": "-",
@@ -7149,7 +7435,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Uchigatana": {
+  {
+    "Name": "Uchigatana",
     "Type": "Katana",
     "Phy": 281,
     "Mag": "-",
@@ -7174,7 +7461,8 @@
     "Wgt": 5.5,
     "Upgrade": "Smithing Stones"
   },
-  "Urumi": {
+  {
+    "Name": "Urumi",
     "Type": "Whip",
     "Phy": 247,
     "Mag": "-",
@@ -7199,7 +7487,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Varre's Bouquet": {
+  {
+    "Name": "Varre's Bouquet",
     "Type": "Hammer",
     "Phy": 112,
     "Mag": "-",
@@ -7224,7 +7513,8 @@
     "Wgt": 2,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Venomous Fang": {
+  {
+    "Name": "Venomous Fang",
     "Type": "Claw",
     "Phy": 225,
     "Mag": "-",
@@ -7249,7 +7539,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Veteran's Prosthesis": {
+  {
+    "Name": "Veteran's Prosthesis",
     "Type": "Fist",
     "Phy": 203,
     "Mag": "-",
@@ -7274,7 +7565,8 @@
     "Wgt": 4,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Vulgar Militia Saw": {
+  {
+    "Name": "Vulgar Militia Saw",
     "Type": "Halberd",
     "Phy": 308,
     "Mag": "-",
@@ -7299,7 +7591,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Vulgar Militia Shotel": {
+  {
+    "Name": "Vulgar Militia Shotel",
     "Type": "Halberd",
     "Phy": 296,
     "Mag": "-",
@@ -7324,7 +7617,8 @@
     "Wgt": 8,
     "Upgrade": "Smithing Stones"
   },
-  "Vyke's War Spear": {
+  {
+    "Name": "Vyke's War Spear",
     "Type": "Great Spear",
     "Phy": 252,
     "Mag": "-",
@@ -7349,7 +7643,8 @@
     "Wgt": 8,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Wakizashi": {
+  {
+    "Name": "Wakizashi",
     "Type": "Dagger",
     "Phy": 230,
     "Mag": "-",
@@ -7374,7 +7669,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Warhawk's Talon": {
+  {
+    "Name": "Warhawk's Talon",
     "Type": "Straight Sword",
     "Phy": 247,
     "Mag": "-",
@@ -7399,7 +7695,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Warped Axe": {
+  {
+    "Name": "Warped Axe",
     "Type": "Axe",
     "Phy": 289,
     "Mag": "-",
@@ -7424,7 +7721,8 @@
     "Wgt": 7.5,
     "Upgrade": "Smithing Stones"
   },
-  "Warpick": {
+  {
+    "Name": "Warpick",
     "Type": "Hammer",
     "Phy": 264,
     "Mag": "-",
@@ -7449,7 +7747,8 @@
     "Wgt": 2.5,
     "Upgrade": "Smithing Stones"
   },
-  "Watchdog's Greatsword": {
+  {
+    "Name": "Watchdog's Greatsword",
     "Type": "Colossal Sword",
     "Phy": 347,
     "Mag": "-",
@@ -7474,7 +7773,8 @@
     "Wgt": 22,
     "Upgrade": "Smithing Stones"
   },
-  "Watchdog's Staff": {
+  {
+    "Name": "Watchdog's Staff",
     "Type": "Colossal Weapon",
     "Phy": 404,
     "Mag": "-",
@@ -7499,7 +7799,8 @@
     "Wgt": 19,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Weathered Straight Sword": {
+  {
+    "Name": "Weathered Straight Sword",
     "Type": "Straight Sword",
     "Phy": 252,
     "Mag": "-",
@@ -7524,7 +7825,8 @@
     "Wgt": 3,
     "Upgrade": "Smithing Stones"
   },
-  "Whip": {
+  {
+    "Name": "Whip",
     "Type": "Whip",
     "Phy": 245,
     "Mag": "-",
@@ -7549,7 +7851,8 @@
     "Wgt": 2,
     "Upgrade": "Smithing Stones"
   },
-  "Wing of Astel": {
+  {
+    "Name": "Wing of Astel",
     "Type": "Curved Sword",
     "Phy": 159,
     "Mag": 191,
@@ -7574,7 +7877,8 @@
     "Wgt": 2.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Winged Greathorn": {
+  {
+    "Name": "Winged Greathorn",
     "Type": "Greataxe",
     "Phy": 318,
     "Mag": "-",
@@ -7599,7 +7903,8 @@
     "Wgt": 11,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Winged Scythe": {
+  {
+    "Name": "Winged Scythe",
     "Type": "Reaper",
     "Phy": 213,
     "Mag": "-",
@@ -7624,7 +7929,8 @@
     "Wgt": 7.5,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Zamor Curved Sword": {
+  {
+    "Name": "Zamor Curved Sword",
     "Type": "Curved Greatsword",
     "Phy": 306,
     "Mag": "-",
@@ -7649,7 +7955,8 @@
     "Wgt": 9,
     "Upgrade": "Somber Smithing Stones"
   },
-  "Zweihander": {
+  {
+    "Name": "Zweihander",
     "Type": "Colossal Sword",
     "Phy": 345,
     "Mag": "-",
@@ -7674,4 +7981,4 @@
     "Wgt": 15.5,
     "Upgrade": "Smithing Stones"
   }
-}
+]

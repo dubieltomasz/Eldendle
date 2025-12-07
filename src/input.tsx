@@ -1,37 +1,32 @@
-import {useState, useCallback} from 'react'
-import JSONArray from '../public/csvjson(1).json'
-import JSONMap from '../public/csvjson.json'
+import JSONArray from '../public/csvjson.json'
 
-interface Props{
-    onSubmit: (match: string[]) => void;
+interface Prop{
+    Submit: (match: number[]) => void;
 };
 
-function input({onSubmit}: Props) {
-    const [inputName, setInputName] = useState<string>("");
+function input({Submit}: Prop) {
+    function search(name: string) {
+        const inputValue: string = name.trim().toLowerCase();
+        const matches: number[] = []; 
 
-    function search(event: React.FormEvent) {
-        event.preventDefault();
+        JSONArray.forEach((record, index: number) => {
+            if(record.Name.toLocaleLowerCase().match(inputValue)) {
+                matches.push(index);
+            }
+        })
 
-        const inputValue = inputName.trim().toLowerCase();
-
-        if(inputValue) {
-            const matches = Object.keys(JSONMap).filter(key => key.toLowerCase().match(inputValue));
-            matches.forEach(match => console.log(match));
-
-            localStorage.setItem('guesses', JSON.stringify(matches));
-            onSubmit(matches);
-        }
+        Submit(matches);
     }
 
     return (
-        <form onSubmit={search}>
+        <form>
             <input
                 type="text"
                 name="inputName"
-                value={inputName}
-                onChange={that => setInputName(that.target.value)}
+                onChange={that => {
+                    search(that.target.value);
+                }}
             />
-            <button type="submit">Submit</button>
         </form>
     );
 };

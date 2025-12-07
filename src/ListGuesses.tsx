@@ -1,20 +1,22 @@
-interface Props{
-    guesses: string[];
+import JSONArray from '../public/csvjson.json'
+
+interface Prop{
+    guesses: number[];
 };
 
-function ListGuesses({guesses}: Props) {
+function ListGuesses({guesses}: Prop) {
     return (
         <tbody>
             {guesses.map((guess) => (
-                <tr>
-                    <td>a</td>
-                    <td>{guess}</td>
-                    <td>a</td>
-                    <td>a</td>
-                    <td>a</td>
-                    <td>a</td>
-                    <td>a</td>
-                    <td>a</td>
+                <tr key={guess}>
+                    <td>Picture</td>
+                    <td>{JSONArray.at(guess)!!.Name}</td>
+                    <td>{JSONArray.at(guess)!!.Type}</td>
+                    <td>{JSONArray.at(guess)!!.Name}</td>
+                    <td>{JSONArray.at(guess)!!.Cri}</td>
+                    <td>{JSONArray.at(guess)!!.Name}</td>
+                    <td>{JSONArray.at(guess)!!.Wgt}</td>
+                    <td>{JSONArray.at(guess)!!.Upgrade}</td>
                 </tr>
             ))}
         </tbody>
