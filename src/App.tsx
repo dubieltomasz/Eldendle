@@ -59,7 +59,7 @@ function App() {
       </main>
       <footer>
         <p>Eldendle - 2025</p>
-        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src='./src/assets/github-mark-white.png'/></a>
+        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src='./src/assets/github-mark-white.png' /></a>
       </footer>
     </>
   )
