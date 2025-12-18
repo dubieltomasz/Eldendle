@@ -1,33 +1,33 @@
 import JSONArray from '../public/csvjson.json'
 
-interface Prop{
-    Submit: (match: number[]) => void;
+interface Prop {
+    search: (match: number[]) => void;
 };
 
-function input({Submit}: Prop) {
-    function search(name: string) {
-        const inputValue: string = name.trim().toLowerCase();
-        const matches: number[] = []; 
+function input({ search }: Prop) {
+    function onChangeFunction(inputValue: string) {
+        const expression: string = inputValue.trim().toLowerCase();
+        const matches: number[] = [];
 
-        JSONArray.forEach((record, index: number) => {
-            if(record.Name.toLocaleLowerCase().match(inputValue)) {
-                matches.push(index);
-            }
-        })
+        if (expression !== "") {
+            JSONArray.forEach((record, index: number) => {
+                if (record.Name.toLocaleLowerCase().match(expression)) {
+                    matches.push(index);
+                }
+            })
+        }
 
-        Submit(matches);
+        search(matches);
     }
 
     return (
-        <form>
-            <input
-                type="text"
-                name="inputName"
-                onChange={that => {
-                    search(that.target.value);
-                }}
-            />
-        </form>
+        <input
+            type="text"
+            name="inputName"
+            onChange={that => {
+                onChangeFunction(that.target.value);
+            }}
+        />
     );
 };
 

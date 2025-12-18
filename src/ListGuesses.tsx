@@ -1,14 +1,14 @@
 import JSONArray from '../public/csvjson.json'
 
-interface Prop{
+interface Prop {
     guesses: number[];
 };
 
-function ListGuesses({guesses}: Prop) {
+function ListGuesses({ guesses }: Prop) {
     return (
         <tbody>
-            {guesses.map((guess) => (
-                <tr key={guess}>
+            {guesses.map((guess, index) => (
+                <tr key={index}>
                     <td>Picture</td>
                     <td>{JSONArray.at(guess)!!.Name}</td>
                     <td>{JSONArray.at(guess)!!.Type}</td>
