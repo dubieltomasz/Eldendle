@@ -4,9 +4,11 @@ import ListOptions from './ListOptions.tsx'
 import './App.css'
 import ListGuesses from './ListGuesses.tsx';
 import JSONArray from '../public/weaponData.json';
+import image from './assets/github-mark-white.png';
 
 function App() {
-  const [todaysEldendle, setTodaysEldendle] = useState<number>(new Date().getDate() % JSONArray.length);
+  //const [todaysEldendle, setTodaysEldendle] = useState<number>(new Date().getDate() % JSONArray.length);
+  const todaysEldendle : number = new Date().getDate() % JSONArray.length;
 
   const [lastGuessDate, setLastGuessDate] = useState<string>(
     localStorage.getItem('lastGuessDate') ? localStorage.getItem('lastGuessDate')!! : ""
@@ -72,7 +74,7 @@ function App() {
       </main>
       <footer>
         <p>Eldendle - 2025</p>
-        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src='./src/assets/github-mark-white.png' /></a>
+        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src={image} /></a>
       </footer>
     </>
   )
