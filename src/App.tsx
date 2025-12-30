@@ -54,11 +54,20 @@ function App() {
         <a>
           <h2>Weapon Guesser</h2>
         </a>
+        <a>
+          <h2>Boss Guesser</h2>
+        </a>
+        <a>
+          <h2>Crafting Guesser</h2>
+        </a>
+        <a>
+          <h2>Location Guesser</h2>
+        </a>
       </nav>
       <main>
         <section className='box'>
-          <Input search={setOptions} />
-          <ListOptions options={options} sendGuess={addGuess} />
+          <Input search={setOptions}/>
+          <ListOptions options={options} sendGuess={addGuess} showDamage={showDamage} showScaling={showScaling}/>
         </section>
         <table>
           <thead>
@@ -75,16 +84,17 @@ function App() {
           <ListGuesses guesses={guesses} todaysEldendle={todaysEldendle} showDamage={showDamage} showScaling={showScaling}/>
         </table>
         <section>
+          <h3>Hints</h3>
           <label>Show damage type values</label>
-          <input type='checkbox' name='showValues' checked={showDamage} onChange={e => {setShowingDamage(!showDamage)}}/>
+          <input type='checkbox' name='showValues' checked={showDamage} onChange={() => {setShowingDamage(showDamage => !showDamage)}}/>
           <br/>
           <label>Show attribute scaling tier</label>
-          <input type='checkbox' name='showValues' checked={showScaling} onChange={e => {setShowingScaling(!showScaling)}}/>
+          <input type='checkbox' name='showValues' checked={showScaling} onChange={() => {setShowingScaling(showScaling => !showScaling)}}/>
         </section>
       </main>
       <footer>
         <p>Eldendle - 2025</p>
-        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src={image} /></a>
+        <a href='https://github.com/dubieltomasz/eldendle' target='_blank'><img src={image}/></a>
       </footer>
     </>
   )
