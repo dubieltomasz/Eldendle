@@ -13,7 +13,7 @@ const router = createBrowserRouter(
       { index: true, element: <WeaponGuesser /> }
     ],
   },],
-  { basename: '/eldendle', }
+  { basename: '/eldendle/', }
 );
 
 createRoot(document.getElementById('root')!).render(
