@@ -4,28 +4,12 @@
     "cookbook": "Fevor's Cookbook [3]",
     "ingredients": [
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Sacramental Bud",
         "quantity": 1
       },
       {
         "material": "Miquella's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -36,26 +20,6 @@
       {
         "material": "Erdleaf Flower",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -70,22 +34,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -104,18 +52,6 @@
       {
         "material": "Old Fang",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -126,26 +62,6 @@
       {
         "material": "Fire Blossom",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -156,26 +72,6 @@
       {
         "material": "Rimed Rowa",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -190,22 +86,6 @@
       {
         "material": "Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -222,20 +102,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Gravel Stone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -250,22 +118,6 @@
       {
         "material": "Gold-Tinged Excrement",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -276,26 +128,6 @@
       {
         "material": "Rowa Fruit",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -310,22 +142,6 @@
       {
         "material": "Blood-Tainted Excrement",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -336,26 +152,6 @@
       {
         "material": "Golden Rowa",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -370,22 +166,6 @@
       {
         "material": "Tarnished Golden Sunflower",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -396,26 +176,6 @@
       {
         "material": "Rimed Crystal Bud",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -432,20 +192,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Golden Centipede",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -456,26 +204,6 @@
       {
         "material": "Melted Mushroom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -486,26 +214,6 @@
       {
         "material": "Melted Mushroom",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -520,22 +228,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -546,26 +238,6 @@
       {
         "material": "Ruin Fragment",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -576,26 +248,6 @@
       {
         "material": "Glintstone Firefly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -610,22 +262,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 5
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -636,26 +272,6 @@
       {
         "material": "Volcanic Stone",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -664,28 +280,12 @@
     "cookbook": "Nomadic Warrior's Cookbook [5]",
     "ingredients": [
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Beast Blood",
         "quantity": 1
       },
       {
         "material": "Hefty Beast Bone",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -696,26 +296,6 @@
       {
         "material": "Rada Fruit",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -734,18 +314,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -756,26 +324,6 @@
       {
         "material": "Ember of Messmer",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -794,18 +342,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -816,26 +352,6 @@
       {
         "material": "Thin Beast Bones",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -854,18 +370,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -876,26 +380,6 @@
       {
         "material": "Thin Beast Bones",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -914,18 +398,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -936,26 +408,6 @@
       {
         "material": "Thin Beast Bones",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -968,24 +420,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -996,26 +432,6 @@
       {
         "material": "Hefty Beast Bone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1028,24 +444,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1056,26 +456,6 @@
       {
         "material": "Hefty Beast Bone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1094,18 +474,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1120,22 +488,6 @@
       {
         "material": "Glintslab Firefly",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1148,24 +500,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1180,22 +516,6 @@
       {
         "material": "Glintslab Firefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1214,18 +534,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1240,22 +548,6 @@
       {
         "material": "Pearlescent Scale",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1270,22 +562,6 @@
       {
         "material": "Dewgem",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1300,22 +576,6 @@
       {
         "material": "Albinauric Bloodclot",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1330,22 +590,6 @@
       {
         "material": "Black Pyrefly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1364,18 +608,6 @@
       {
         "material": "Bloodrose",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1390,22 +622,6 @@
       {
         "material": "Black Pyrefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1418,24 +634,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1450,22 +650,6 @@
       {
         "material": "Yellow Fulgurbloom",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1474,28 +658,12 @@
     "cookbook": "Nomadic Warrior's Cookbook [9]",
     "ingredients": [
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Grave Violet",
         "quantity": 2
       },
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1510,22 +678,6 @@
       {
         "material": "Yellow Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1540,22 +692,6 @@
       {
         "material": "Shadow Sunflower",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1568,24 +704,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Old Fang",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1600,22 +720,6 @@
       {
         "material": "Shadow Sunflower",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1632,20 +736,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1660,22 +752,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1690,22 +766,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1720,22 +780,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1754,18 +798,6 @@
       {
         "material": "Great Dragonfly Head",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1780,22 +812,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1814,18 +830,6 @@
       {
         "material": "Land Octopus Ovary",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1840,22 +844,6 @@
       {
         "material": "Golden Sunflower",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1874,18 +862,6 @@
       {
         "material": "Crab Eggs",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1900,22 +876,6 @@
       {
         "material": "Golden Sunflower",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1934,18 +894,6 @@
       {
         "material": "Slumbering Egg",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1960,22 +908,6 @@
       {
         "material": "Golden Sunflower",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -1992,20 +924,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Sacramental Bud",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2022,20 +942,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Golden Centipede",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2050,22 +958,6 @@
       {
         "material": "Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2082,20 +974,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Eye of Yelough",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2110,22 +990,6 @@
       {
         "material": "Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2144,18 +1008,6 @@
       {
         "material": "Herba",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2170,22 +1022,6 @@
       {
         "material": "Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2208,14 +1044,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2238,14 +1066,6 @@
       {
         "material": "Land Octopus Ovary",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2260,22 +1080,6 @@
       {
         "material": "Dewkissed Herba",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2296,16 +1100,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Eye of Yelough",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2320,22 +1116,6 @@
       {
         "material": "Bloodrose",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2356,16 +1136,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Nascent Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2380,22 +1152,6 @@
       {
         "material": "Bloodrose",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2414,18 +1170,6 @@
       {
         "material": "Glintstone Firefly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2440,22 +1184,6 @@
       {
         "material": "Bloodrose",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2474,18 +1202,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2500,22 +1216,6 @@
       {
         "material": "Crystal Bud",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2534,18 +1234,6 @@
       {
         "material": "Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2560,22 +1248,6 @@
       {
         "material": "Rimed Crystal Bud",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2594,18 +1266,6 @@
       {
         "material": "Golden Sunflower",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2620,22 +1280,6 @@
       {
         "material": "Rimed Crystal Bud",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2654,18 +1298,6 @@
       {
         "material": "Silver Firefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2680,22 +1312,6 @@
       {
         "material": "Rimed Crystal Bud",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2714,18 +1330,6 @@
       {
         "material": "Gold Firefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2734,28 +1338,8 @@
     "cookbook": "Nomadic Warrior's Cookbook [11]",
     "ingredients": [
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Cracked Crystal",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2776,16 +1360,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Arteria Leaf",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2800,22 +1376,6 @@
       {
         "material": "Cracked Crystal",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2838,14 +1398,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2860,22 +1412,6 @@
       {
         "material": "Cracked Crystal",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2898,14 +1434,6 @@
       {
         "material": "Land Octopus Ovary",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2920,22 +1448,6 @@
       {
         "material": "Ruin Fragment",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2956,16 +1468,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Eye of Yelough",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -2980,22 +1484,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3016,16 +1504,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Nascent Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3040,22 +1520,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3070,22 +1534,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3100,22 +1548,6 @@
       {
         "material": "Smoldering Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3130,22 +1562,6 @@
       {
         "material": "Glintstone Firefly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3160,22 +1576,6 @@
       {
         "material": "Glintstone Firefly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3188,24 +1588,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3220,22 +1604,6 @@
       {
         "material": "Toxic Mossling",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3250,22 +1618,6 @@
       {
         "material": "Scarlet Bud",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3278,24 +1630,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3310,22 +1646,6 @@
       {
         "material": "Sanguine Amaryllis",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3344,18 +1664,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3370,22 +1678,6 @@
       {
         "material": "Frozen Maggot",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3404,18 +1696,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3430,22 +1710,6 @@
       {
         "material": "Deep-Purple Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3464,18 +1728,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3490,22 +1742,6 @@
       {
         "material": "Deep-Purple Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3524,18 +1760,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3550,22 +1774,6 @@
       {
         "material": "Winter-Lantern Fly",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3584,18 +1792,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3610,22 +1806,6 @@
       {
         "material": "Winter-Lantern Fly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3638,24 +1818,12 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "String",
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3670,22 +1838,6 @@
       {
         "material": "Swollen Grape",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3704,18 +1856,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3730,22 +1870,6 @@
       {
         "material": "Horn-Strewn Excrement",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3758,24 +1882,12 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "String",
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3790,22 +1902,6 @@
       {
         "material": "Gas Stone",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3824,18 +1920,6 @@
       {
         "material": "Crystal Bud",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3850,22 +1934,6 @@
       {
         "material": "Ghostflame Bloom",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3880,22 +1948,6 @@
       {
         "material": "Grave Cricket",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3904,28 +1956,8 @@
     "cookbook": "Greater Potentate's Cookbook [12]",
     "ingredients": [
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Roundrock",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3940,22 +1972,6 @@
       {
         "material": "Blessed Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -3970,22 +1986,6 @@
       {
         "material": "Red Fulgurbloom",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4000,22 +2000,6 @@
       {
         "material": "Red Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4030,22 +2014,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4060,22 +2028,6 @@
       {
         "material": "Sharp Gravel Stone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4090,22 +2042,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4120,22 +2056,6 @@
       {
         "material": "Stormhawk Feather",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4154,18 +2074,6 @@
       {
         "material": "Sanctuary Stone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4178,24 +2086,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Sanctuary Stone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4210,22 +2102,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4240,22 +2116,6 @@
       {
         "material": "",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4276,16 +2136,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Arteria Leaf",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4304,18 +2156,6 @@
       {
         "material": "Furnace Visage",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4334,18 +2174,6 @@
       {
         "material": "Living Jar Shard",
         "quantity": 3
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4366,16 +2194,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Arteria Leaf",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4394,18 +2214,6 @@
       {
         "material": "Poisonbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4422,20 +2230,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Formic Rock",
         "quantity": 4
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4448,24 +2244,8 @@
         "quantity": 3
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4484,18 +2264,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4514,18 +2282,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4538,24 +2294,12 @@
         "quantity": 3
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Flight Pinion",
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4568,24 +2312,8 @@
         "quantity": 3
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4604,18 +2332,6 @@
       {
         "material": "Blessed Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4634,18 +2350,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4664,18 +2368,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4694,18 +2386,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4724,18 +2404,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4754,18 +2422,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4784,18 +2440,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4814,18 +2458,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4844,18 +2476,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4874,18 +2494,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4898,24 +2506,12 @@
         "quantity": 3
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Flight Pinion",
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4928,24 +2524,8 @@
         "quantity": 3
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4964,18 +2544,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -4994,18 +2562,6 @@
       {
         "material": "String",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5024,18 +2580,6 @@
       {
         "material": "String",
         "quantity": 2
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5048,24 +2592,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Aeonian Butterfly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5078,24 +2606,8 @@
         "quantity": 2
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Trina's Lily",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5114,18 +2626,6 @@
       {
         "material": "Beast Horn",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5144,18 +2644,6 @@
       {
         "material": "Beast Horn",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5174,18 +2662,6 @@
       {
         "material": "Beast Horn",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5204,18 +2680,6 @@
       {
         "material": "Beast Horn",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5234,18 +2698,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5264,18 +2716,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5294,18 +2734,6 @@
       {
         "material": "Human Bone Shard",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5328,14 +2756,6 @@
       {
         "material": "Glintslab Firefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5358,14 +2778,6 @@
       {
         "material": "Pearlescent Scale",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5388,14 +2800,6 @@
       {
         "material": "Dewgem",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5418,14 +2822,6 @@
       {
         "material": "Dragon's Calorbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5448,14 +2844,6 @@
       {
         "material": "Black Pyrefly",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5478,14 +2866,6 @@
       {
         "material": "Finger Mimic",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5508,14 +2888,6 @@
       {
         "material": "Yellow Fulgurbloom",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5538,14 +2910,6 @@
       {
         "material": "Shadow Sunflower",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5568,14 +2932,6 @@
       {
         "material": "Flight Pinion",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   },
@@ -5592,20 +2948,8 @@
         "quantity": 1
       },
       {
-        "material": "-",
-        "quantity": 0
-      },
-      {
-        "material": "-",
-        "quantity": 0
-      },
-      {
         "material": "Gravel Stone",
         "quantity": 1
-      },
-      {
-        "material": "-",
-        "quantity": 0
       }
     ]
   }
