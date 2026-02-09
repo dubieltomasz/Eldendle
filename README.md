@@ -2,6 +2,7 @@
 [Wordle](https://www.nytimes.com/games/wordle/) inspired game where you guess weapons, bosses and crafting items from [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/).
 
 ![last commit](https://img.shields.io/github/last-commit/dubieltomasz/eldendle?style=for-the-badge)
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0de2c40f-9751-4a75-825a-2aebb89d2c41" />
 
 ## Built with
