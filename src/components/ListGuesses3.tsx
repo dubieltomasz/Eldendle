@@ -1,5 +1,4 @@
 import { AnimatePresence, motion } from 'framer-motion';
-import JSONArray from '../../public/bossData.json';
 import type { Record } from './routes/BossGuesser';
 
 interface Prop {
